@@ -122,13 +122,9 @@ Deep-Research-AI/
 This project is licensed under the [MIT License](LICENSE).
 
 ## Future Enhancements
-- Add support for additional agents to handle more complex workflows.
-- Implement caching for frequently queried topics.
+- Add support for additional models to handle more context and better workflows.
 - Enhance the frontend UI for better user experience.
-- Integrate more APIs for diverse data sources.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for review.
+- Integrate more APIs for faster and diverse data sources collection.
 
 ## Acknowledgments
 - **Tavily API** for enabling efficient web crawling.
